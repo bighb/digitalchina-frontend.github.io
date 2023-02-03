@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-22ace8d2","path":"/design/study/about-conclusion/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1671676713000,"contributors":[{"name":"lijun","email":"96570945+hahhqw@users.noreply.github.com","commits":1}]},"filePathRelative":"design/study/about-conclusion/README.md"}');export{t as data};

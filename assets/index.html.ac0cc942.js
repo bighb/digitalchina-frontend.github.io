@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-84c933d0","path":"/develop/vuejs/vuepressv2-build-process-record/","title":"介绍","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1671435751000,"contributors":[{"name":"肖子立","email":"xiaozlb@digitalchina.com","commits":1}]},"filePathRelative":"develop/vuejs/vuepressv2-build-process-record/README.md"}');export{e as data};

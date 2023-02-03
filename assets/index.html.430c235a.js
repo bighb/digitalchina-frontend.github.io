@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,b as e,d as s}from"./app.7c966131.js";const c={},n=e("h1",{id:"modern-es6-javascript",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#modern-es6-javascript","aria-hidden":"true"},"#"),s(" Modern ES6+ Javascript")],-1),o=[n];function d(i,_){return t(),r("div",null,o)}const l=a(c,[["render",d],["__file","index.html.vue"]]);export{l as default};
